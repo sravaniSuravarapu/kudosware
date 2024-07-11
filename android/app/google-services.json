@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "669640742853",
+    "project_id": "kudoswareflutter",
+    "storage_bucket": "kudoswareflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669640742853:android:35f153e46c55b7878d9dac",
+        "android_client_info": {
+          "package_name": "com.example.kudosware_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiHbDc7RimNoGLVLTo4Ejj9WkGG9XtgdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
